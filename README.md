@@ -4,7 +4,7 @@ Hi! I'm Zeeshan Momin, a B.Com graduate transitioning into Business Analysis.
 
 ## 🎯 About Me
 - Background: B2B Hotel Sales (Hospitality Industry)
-- Location: Narnaund, Haryana, India
+- Location: Mumbai, Maharashtra, India
 - Currently Learning: SQL, Python, Power BI, Excel, Requirements Analysis
 - Goal: Junior Business Analyst role
 
